@@ -8,7 +8,7 @@ Synthetic Aperture Fcousing Technique (SAFT) algorithms are implemented as well.
 **Presentations/SAFT Final Report** - This is a document explaining the methods used in the code as well as important concepts regarding SAFT. The document also shows the main results of our work in 2D and 3D showing SAFT quality degradation when imaging objects angled in the depth direction.
 
 ## Run Examples
-**Code/Test_3D.m** - a code example for scanning depth angled lines and applying SAFT in the x direction, y direction and both in a cross pattern.\
+**Code/Test_3D.m** - a code example for scanning depth angled lines and applying SAFT in the x direction, y direction and both in a cross pattern. The test is configured for imaging a long angled line and the angle and length can be adjusted to recreate all the results.\
 **Code/Test_2D.m** - a code example for scanning depth angled lines and applying SAFT in the y direction using different SAFT methods: Basic, SIR, spherical SIR, and Coherence factor (CF).
 
 ## Scans 
